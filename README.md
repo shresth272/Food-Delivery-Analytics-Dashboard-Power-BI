@@ -42,28 +42,28 @@ Key Tables Used :
 
 Key Features & Insights : 
 
-Total Orders: ~3,000
+1.Total Orders: ~3,000
 
-Food Items: 23
+2.Food Items: 23
 
-Restaurants: 6
+3.Restaurants: 6
 
-UPI is the most preferred payment method
+4.UPI is the most preferred payment method
 
-Main Course is the most ordered food category
+5.Main Course is the most ordered food category
 
-Bukhara is the top-performing restaurant by order count
+6.Bukhara is the top-performing restaurant by order count
 
-Highest orders observed in February
+7.Highest orders observed in February
 
 Dashboard Components : 
 
-KPI Cards (Total Orders, Food Items, Restaurants)
+1.KPI Cards (Total Orders, Food Items, Restaurants)
 
-Line Chart (Orders by Month)
+2.Line Chart (Orders by Month)
 
-Bar Charts (Food Type vs Membership, Payment Method)
+3.Bar Charts (Food Type vs Membership, Payment Method)
 
-Pie Charts (Food Category Distribution, Restaurant-wise Orders)
+4.Pie Charts (Food Category Distribution, Restaurant-wise Orders)
 
-Slicers for dynamic filtering by Month
+5.Slicers for dynamic filtering by Month
